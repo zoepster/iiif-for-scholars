@@ -31,3 +31,4 @@ var layer2 = L.tileLayer.iiif(iiifUrl, {
 // ).addTo(map);
 
 L.control.sideBySide(layer1, layer2).addTo(map);
+//test
